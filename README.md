@@ -1,5 +1,5 @@
 # Public Cloner Tool From Me 🫣
-![Uploading Screenshot_20221006-174002_Termux.jpg…]()
+![Screenshot_20221006-174002_Termux](https://user-images.githubusercontent.com/103543395/194313861-c2ff6601-41ea-4b14-88c0-e9c87479aba4.jpg)
 
 # Installation or Command 👇⚠️
 
